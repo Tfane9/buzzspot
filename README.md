@@ -36,3 +36,7 @@ Open `index.html` in Chrome, Safari or Edge. There's no build step.
 - Accounts and bookings are saved in the browser of the device that made them. They aren't shared between devices, so two people could book the same room. A real launch needs a server database.
 - Room access rules are in `const ACCESS=` in `index.html`. The Graduate Student Community rule matches the GT Library. The Scheller and George Tower rules are assumptions to confirm with GT.
 - Live library and Scheller availability needs the server from the original project. Without it, the site uses built-in sample availability.
+
+
+Georgia Tech SGA x CoLL - Campus Solutions Challenge 2026
+Made with the help of: Sreepadha Daram, Kaylee Xiao, Elina Chen, and Angelina Guan
